@@ -1,4 +1,4 @@
-projects
+Projects
 ========
 
-Projects developped during my undergraduate degree
+Projects developed during my undergraduate degree.
