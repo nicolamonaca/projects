@@ -57,7 +57,7 @@ namespace SMSMobile_R3
         	}
 
 
-        	private void SendRelevationToJournalingManager(Relevation relevation)
+        	private void sendRelevationToJournalingManager(Relevation relevation)
         	{
             		newJournalingManager = new JournalingRelevation();
             		newJournalingManager.sendRelevationAppendRequest(relevationilevazione);
