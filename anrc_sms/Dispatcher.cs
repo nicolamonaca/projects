@@ -28,7 +28,7 @@ namespace SMSMobile_R3
             		if(dispatcher == null)
                 		dispatcher = new Dispatcher();
 
-            		return dispatcher;
+            		return dispatcher; 
         	}
 
        
