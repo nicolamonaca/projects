@@ -3,6 +3,7 @@ Freefall
 
 * AUTHOR: Nicola Lamonaca
 * DATE: March, 2013
+* LANGUAGE: PostgreSQL
 
 * DESCRIPTION: Freefall is a Database for the electronic informative system of a fictitious mobile phone network operator. This was the project for the exam "Designing Data Bases with Advanced Data Models", taught by professor Donato Malerba (http://www.di.uniba.it/~malerba/) and got full marks with distinction.
 
